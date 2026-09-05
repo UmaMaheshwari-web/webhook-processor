@@ -5,7 +5,7 @@ A service that receives webhook events and processes them reliably using backgro
 ## Quick Start
 
 ```bash
-docker compose up --build
+sudo docker compose up --build
 ```
 
 This starts:
